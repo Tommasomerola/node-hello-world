@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "esercizio",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tommasomerola/node-hello-world.git"
+  },
+  "author": "Tommaso Merola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tommasomerola/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/Tommasomerola/node-hello-world#readme"
+}
